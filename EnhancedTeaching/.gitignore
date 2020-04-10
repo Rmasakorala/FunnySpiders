@@ -1,2 +1,4 @@
 #Untracked dirs
 Library/*
+ArtifactDB/*
+PackageCache/*
