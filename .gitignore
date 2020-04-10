@@ -1003,3 +1003,6 @@ EnhancedTeaching/Temp/UnityTempFile-facf176b29a3cb2439c449a0f766e101
 EnhancedTeaching/Temp/UnityTempFile-fc88a96cb4bb3f54984d25439f3bc538
 EnhancedTeaching/Library/ArtifactDB
 EnhancedTeaching/Library/ArtifactDB
+EnhancedTeaching/Assets/Photon/PhotonUnityNetworking/Code/Editor/PunSceneSettingsFile.asset
+EnhancedTeaching/Assets/Photon/PhotonUnityNetworking/Code/Editor/PunSceneSettingsFile.asset
+*.asset
